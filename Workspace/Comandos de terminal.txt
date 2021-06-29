@@ -1,0 +1,15 @@
+CD - entra e sai de pastas
+DIR - lista pastas
+CD.. - retrocede um nivel de pasta
+CD nome pasta - entra na pasta destino
+CD TAB - completa um nome existente na pasta
+CLS - limpa o prompt
+MKDIR - cria uma pasta
+ECHO - printa no terminal alguma comando digitado
+ECHO >  nome do arquivo - cria arquivo com o nome especificado e insere o que foi dito no ECHO
+DEL - deleta arquivos
+^ - verfica comando que fora usados no prompt
+RMDIR - remove todo o repositorio(vazio)
+RMDIR /S /Q - remove todos o arquivos e o repositorio
+
+

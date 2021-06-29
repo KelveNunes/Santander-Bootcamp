@@ -1,0 +1,7 @@
+openssl sha1 nome do arquivo - Mostra a chave de criptografia do objeto
+git add
+git commit
+git init
+-a - mostra arquivos ocultos
+crtl l - limpa o prompt
+git config --global - configura o git globalmente 
