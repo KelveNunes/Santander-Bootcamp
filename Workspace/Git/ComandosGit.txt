@@ -1,4 +1,5 @@
 openssl sha1 nome do arquivo - Mostra a chave de criptografia do objeto
+<<<<<<< HEAD
 git add 
 git commit - salva o conteudo do repositorio no momento do commit
 git init -  inicia o git
@@ -7,3 +8,11 @@ crtl l - limpa o prompt
 git config --global - configura o git globalmente 
 git push origin master - empurra pra o servidor remoto
 git pull - tras pra o servidor local
+=======
+git add
+git commit
+git init
+-a - mostra arquivos ocultos
+crtl l - limpa o prompt
+git config --global - configura o git globalmente 
+>>>>>>> 587c123088bcfa99f364e8b7134a6744606092ef
